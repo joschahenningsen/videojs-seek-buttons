@@ -1,9 +1,9 @@
 {
   "name": "videojs-seek-buttons",
-  "repository": "https://github.com/mister-ben/videojs-seek-buttons",
-  "issues": "https://github.com/mister-ben/videojs-seek-buttons/issues",
+  "repository": "https://github.com/joschahenningsen/videojs-seek-buttons",
+  "issues": "https://github.com/joschahenningsen/videojs-seek-buttons/issues",
   "version": "1.5.0",
-  "description": "Plugin for video.js to add seek buttons to the control bar",
+  "description": "Plugin for video.js to add seek buttons to the control bar (fork without googleapis coupling)",
   "main": "dist/videojs-seek-buttons.cjs.js",
   "module": "dist/videojs-seek-buttons.es.js",
   "generator-videojs-plugin": {
