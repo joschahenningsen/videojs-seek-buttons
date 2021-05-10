@@ -2,7 +2,7 @@
   "name": "videojs-seek-buttons-google-free",
   "repository": "https://github.com/joschahenningsen/videojs-seek-buttons",
   "issues": "https://github.com/joschahenningsen/videojs-seek-buttons/issues",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Plugin for video.js to add seek buttons to the control bar (fork without googleapis coupling)",
   "main": "dist/videojs-seek-buttons.cjs.js",
   "module": "dist/videojs-seek-buttons.es.js",

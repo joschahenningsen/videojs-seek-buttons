@@ -22,15 +22,19 @@
       content: '\f116';
     }
     &.skip-forward::before {
+      transform: rotateY(180deg);
       content: '\f116';
     }
     &.skip-forward.skip-10::before {
+      transform: rotateY(180deg);
       content: '\f116';
     }
     &.skip-forward.skip-5::before {
+      transform: rotateY(180deg);
       content: '\f116';
     }
     &.skip-forward.skip-30::before {
+      transform: rotateY(180deg);
       content: '\f116';
     }
   }
@@ -49,19 +53,15 @@
       }
 
       &.skip-back .vjs-icon-placeholder::before {
-        transform: rotateY(180deg);
         content: '\f116';
       }
       &.skip-back.skip-10 .vjs-icon-placeholder::before {
-        transform: rotateY(180deg);
         content: '\f116';
       }
       &.skip-back.skip-5 .vjs-icon-placeholder::before {
-        transform: rotateY(180deg);
         content: '\f116';
       }
       &.skip-back.skip-30 .vjs-icon-placeholder::before {
-        transform: rotateY(180deg);
         content: '\f116';
       }
       &.skip-forward .vjs-icon-placeholder::before {
