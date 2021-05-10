@@ -11,6 +11,7 @@ This repo was forked from [mister-ben/videojs-seek-buttons](https://github.com/m
 
 - [Installation](#installation)
 - [Options](#options)
+  - [Control position](#control-position)
 - [Usage](#usage)
   - [`<script>` Tag](#script-tag)
   - [Browserify/CommonJS](#browserifycommonjs)
@@ -119,3 +120,4 @@ Apache-2.0. Copyright (c) mister-ben &lt;git@misterben.me&gt;
 
 
 [videojs]: http://videojs.com/
+[fontawesome]: https://fontawesome.com/license
